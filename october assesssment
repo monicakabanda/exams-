@@ -1,0 +1,24 @@
+#Question 1
+#Student Name:
+
+taylorSwiftsongs = []
+input = ["Love Story , Blank Space , Bad Blood , Shake It Off , Delicate , You Belong with Me , Wildest Dreams , Red , All Too Well , 22"]
+input=("Please enter a song  here")
+("bad blood")
+
+
+
+
+#Question2
+#Student Name:
+
+("Welcome to Temperature Alert System")
+input("Please enter a temperature value in degrees Celsius",)
+
+if  temp 20
+  input("Temperature is less then")
+elif <= 20-24
+  print("Temperature between")
+else  24
+   print(" Temperature is more than")
+  
